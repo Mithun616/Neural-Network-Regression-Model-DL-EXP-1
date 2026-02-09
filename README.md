@@ -47,8 +47,8 @@ Plot the performance plot
 Evaluate the model with the testing data.
 
 ## PROGRAM
-### Name:KAVIYA SNEKA M
-### Register Number: 212223040091
+### Name:MITHUN KUMAR G
+### Register Number: 212224230160
 ```python
 class Neuralnet(nn.Module):
    def __init__(self):
